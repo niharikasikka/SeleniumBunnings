@@ -1,0 +1,17 @@
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.deps.json
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.dll
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.pdb
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.csprojAssemblyReference.cache
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.AssemblyInfoInputs.cache
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.AssemblyInfo.cs
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.csproj.CoreCompileInputs.cache
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.dll
+C:\Users\NiharikaS\source\repos\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.pdb
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.deps.json
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.dll
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\bin\Debug\netstandard2.0\SpecFlowAccelerator.pdb
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.AssemblyInfoInputs.cache
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.AssemblyInfo.cs
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.csproj.CoreCompileInputs.cache
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.dll
+C:\Users\NiharikaS\source\repos\SpecFlow\specflowrunner\SpecFlowAccelerator\obj\Debug\netstandard2.0\SpecFlowAccelerator.pdb

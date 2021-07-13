@@ -1,2 +1,3 @@
-# SeleniumBunnings
-Test scripts for Bunnings challenge
+# SpecFlowRunner
+
+Selenium C# SpecFlow runner acceleator
